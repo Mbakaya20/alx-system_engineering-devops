@@ -1,2 +1,2 @@
-#1/bin/bash
-echo $PATH wc -1
+#!/bin/bash
+echo $PATH 
